@@ -1,0 +1,8 @@
+{
+  "name": "A Casa do Ju",
+  "description": "Landing page institucional para A Casa do Ju, apresentando projetos, métricas e contato.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
